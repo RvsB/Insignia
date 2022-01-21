@@ -1,0 +1,9 @@
+@media only screen and (max-width: 1200px) {
+    .hero-section {
+        flex-wrap: wrap-reverse;
+    }
+
+    .about-section {
+        flex-wrap: wrap;
+    }
+}
